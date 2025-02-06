@@ -24,3 +24,10 @@ Atividade Prática
  O método POST é utilizado para enviar credenciais de login com segurança.
  O uso da Fetch API permite criar interações dinâmicas e assíncronas com o backend.
  Um backend PHP pode receber e processar os dados, retornando respostas apropriadas
+
+
+Essa atividade foi realizada pelos alunos:
+Elias Felipe da Silva - Frontend
+Raphael Borges Domingues - Backend
+
+Do Curso de Ciência da Computação do Centro Universitário Univértix - Matipó-MG
